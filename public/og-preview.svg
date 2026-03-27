@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#F5F2E9"/>
+  <rect x="48" y="48" width="1104" height="534" rx="40" fill="#111318"/>
+  <rect x="88" y="88" width="1024" height="454" rx="28" fill="url(#a)" fill-opacity=".16" stroke="rgba(255,255,255,0.12)"/>
+  <g opacity=".3">
+    <path d="M88 144H1112" stroke="#D9D9D9" stroke-dasharray="4 12"/>
+    <path d="M88 220H1112" stroke="#D9D9D9" stroke-dasharray="4 12"/>
+    <path d="M88 296H1112" stroke="#D9D9D9" stroke-dasharray="4 12"/>
+    <path d="M88 372H1112" stroke="#D9D9D9" stroke-dasharray="4 12"/>
+    <path d="M88 448H1112" stroke="#D9D9D9" stroke-dasharray="4 12"/>
+  </g>
+  <rect x="88" y="88" width="172" height="40" rx="20" fill="#8AD11C"/>
+  <text x="118" y="114" fill="#111318" font-size="20" font-family="Arial, sans-serif" font-weight="700">MRUNMAYEE RANE</text>
+  <text x="88" y="220" fill="#F6F8FA" font-size="72" font-family="Arial, sans-serif" font-weight="700">
+    I build AI products
+  </text>
+  <text x="88" y="302" fill="#F6F8FA" font-size="72" font-family="Arial, sans-serif" font-weight="700">
+    that move fast
+  </text>
+  <text x="88" y="370" fill="#B8C0CC" font-size="28" font-family="Arial, sans-serif">
+    Agentic systems, startup execution, and workflow intelligence.
+  </text>
+  <rect x="732" y="166" width="300" height="176" rx="26" transform="rotate(-5 732 166)" fill="#8AD11C"/>
+  <text x="774" y="234" fill="#111318" font-size="24" font-family="Arial, sans-serif" font-weight="700">AI systems</text>
+  <text x="774" y="270" fill="#111318" font-size="24" font-family="Arial, sans-serif" font-weight="700">x product judgment</text>
+  <text x="774" y="306" fill="#111318" font-size="24" font-family="Arial, sans-serif" font-weight="700">x startup speed</text>
+  <rect x="714" y="384" width="250" height="116" rx="24" fill="#1A1F27"/>
+  <text x="744" y="436" fill="#F6F8FA" font-size="18" font-family="Arial, sans-serif">CTO at Krama</text>
+  <text x="744" y="468" fill="#F6F8FA" font-size="18" font-family="Arial, sans-serif">Founding MLE at Flavor</text>
+  <defs>
+    <linearGradient id="a" x1="88" y1="88" x2="1112" y2="542" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8AD11C"/>
+      <stop offset="1" stop-color="#8AD11C" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>
