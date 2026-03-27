@@ -91,6 +91,7 @@ export const proofRibbon = [
   "Winner of the LLM x Law Stanford Hackathon",
   "Winner Agent2Agent Hackathon",
   "Winner of Gemini 3 Super Hacks",
+  "2nd place winner Gemini 3 Super Hacks",
   "Patent accepted in GraphRAG for Autonomous Vehicles",
   "Software Engineer Intern at Marqeta",
   "Analyst Intern at Bank of India",
