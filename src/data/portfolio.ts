@@ -179,13 +179,14 @@ export const projects: ProjectItem[] = [
     role: "Builder - Autonomous drone volumetric capture",
     summary:
       "A drone-focused capture concept exploring how autonomous systems can collect richer spatial data for volumetric workflows. The project frames autonomy as a creative tool, not just a robotics problem.",
-    highlight: "Shared publicly through demo video coverage.",
+    highlight: "2nd place winner at Gemini 3 Super Hacks.",
     tech: ["Autonomous drones", "3D capture", "Spatial systems", "Computer vision"],
     image: "/project-images/legacy-skystudio.png",
     imageAlt: "SkyStudio drone simulation and control interface.",
     links: [
       { label: "GitHub", url: "https://github.com/mrunmayee17/gemini3superhack_skystudio", kind: "github" },
       { label: "Video", url: "https://x.com/cerebral_valley/status/2021289272310149237?s=46&t=6U8W_LK5OXJ9MTMlmP7FHA", kind: "video" },
+      { label: "Event page", url: "https://cerebralvalley.ai/e/gemini-3-superhack", kind: "article" },
     ],
     featured: true,
   },
@@ -219,8 +220,8 @@ export const projects: ProjectItem[] = [
     title: "Sensor Log Analysis using GraphRAG for Autonomous Vehicles",
     role: "Builder - Patent filed and accepted",
     summary:
-      "A GraphRAG-based system for autonomous vehicle sensor failure analysis that combines graph analytics, natural-language querying, and dependency tracing to make root-cause detection faster and more usable.",
-    highlight: "Patent filed and accepted",
+      "Built during the NVIDIA + ArangoDB Hackathon, this GraphRAG-based sensor log analysis system for autonomous vehicles combines graph analytics, natural-language querying, and dependency tracing to make root-cause detection faster and more usable. The resulting work led to an accepted patent, later inspired my startup TensorSurf, and helped me secure interviews with YC and SPC.",
+    highlight: "Built at the NVIDIA + ArangoDB Hackathon, with the work later leading to an accepted patent.",
     tech: ["GraphRAG", "ArangoDB", "cuGraph", "Streamlit", "LLMs"],
     image: "/project-images/legacy-sensorfailure-analysis.png",
     imageAlt: "Graph-based sensor failure visualization for autonomous vehicles.",
