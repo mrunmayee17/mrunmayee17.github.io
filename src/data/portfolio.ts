@@ -139,7 +139,7 @@ export const projects: ProjectItem[] = [
     role: "Builder - Knowledge graph conflict of interest engine",
     summary:
       "A legal AI system that maps entities, relationships, and arbitration context to surface conflicts of interest faster. Built in a high-pressure hackathon setting with a knowledge graph approach designed for practical legal review.",
-    highlight: "Featured by Jus Mundi and Stanford CodeX coverage.",
+    highlight: "Winner of Stanford LLMxLaw Hackathon #5.",
     tech: ["Knowledge graphs", "LLMs", "Legal AI", "Entity linking"],
     image: "/project-images/legacy-jurislink.png",
     imageAlt: "Interactive graph view from the JurisLink project.",
