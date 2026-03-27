@@ -85,7 +85,7 @@ export const profile = {
 };
 
 export const proofRibbon = [
-  "CTO at Krama, Inc.",
+  "CTO at Krama, Inc",
   "Founding MLE at Flavor",
   "System Software Engineer at NVIDIA, Autonomous Vehicles",
   "Winner of the LLM x Law Stanford Hackathon",
@@ -93,7 +93,7 @@ export const proofRibbon = [
   "Winner of Gemini 3 Super Hacks",
   "Patent accepted in GraphRAG for Autonomous Vehicles",
   "Software Engineer Intern at Marqeta",
-  "Analyst Intern at Bank Of India",
+  "Analyst Intern at Bank of India",
 ];
 
 export const ventures: VentureItem[] = [
