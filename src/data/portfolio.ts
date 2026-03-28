@@ -175,6 +175,22 @@ export const projects: ProjectItem[] = [
     featured: true,
   },
   {
+    hook: "Investment research gets more useful when forecasts and agent judgment are forced into the same room.",
+    title: "AlphaEdge",
+    role: "Builder - AI investment research platform",
+    summary:
+      "AlphaEdge is an AI investment research platform with two layers: a forecasting layer powered by foundation models like Chronos and FinCast LoRA, and a committee layer where five specialist agents across quant, fundamentals, sentiment, risk, and macro debate the evidence to produce a final investment memo. I fine-tuned FinCast with LoRA on 10 futures contracts - ES, NQ, RTY, YM, ZN, ZB, CL, NG, GC, and HG - improving holdout directional accuracy from 0.5263 to 0.5806 and rank IC from -0.0016 to 0.0692.",
+    highlight: "FinCast LoRA fine-tuning improved holdout directional accuracy by +0.0543 and rank IC by +0.0707.",
+    tech: ["FinCast LoRA", "FastAPI", "React", "Redis", "Agent systems", "Forecasting"],
+    image: "/project-images/alphaedge-dashboard.png",
+    imageAlt: "AlphaEdge dashboard showing alpha forecast results.",
+    links: [
+      { label: "GitHub", url: "https://github.com/mrunmayee17/AlphaEdge", kind: "github" },
+      { label: "Live app", url: "https://alpha-edge-iota.vercel.app", kind: "website" },
+    ],
+    featured: true,
+  },
+  {
     hook: "Volumetric capture should feel more autonomous and less like a production bottleneck.",
     title: "SkyStudio",
     role: "Builder - Autonomous drone volumetric capture",
